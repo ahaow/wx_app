@@ -1,0 +1,5 @@
+<!--pages/order/order.wxml-->
+<view class="order" id='{{skin}}'>
+  <view class="order bColor">我 是 order 页面</view>
+</view>
+

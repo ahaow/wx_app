@@ -1,0 +1,11 @@
+/* 粉红 */
+#red-skin{
+  background: #f9e5ee;
+}
+#red-skin .bColor{
+  background: #f9e5ee;
+  color: #8e5a54;
+}
+#red-skin .borderColor{
+  border-color: #8e5a54;
+}

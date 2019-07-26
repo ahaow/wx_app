@@ -1,0 +1,10 @@
+#normal-skin{
+  background: #ffffff;
+}
+#normal-skin .bColor{
+  background: #ffffff;
+  color: #000000;
+}
+#normal-skin .borderColor{
+  border-color:#000000;
+}

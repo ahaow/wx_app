@@ -1,0 +1,4 @@
+<!--pages/search/search.wxml-->
+<view class="search" id='{{skin}}'>
+  <view class="search bColor">我 是 search 页面</view>
+</view>

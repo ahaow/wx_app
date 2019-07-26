@@ -1,0 +1,6 @@
+<!--pages/home/home.wxml-->
+<view class="home" id='{{skin}}'>
+  <view class="home bColor">我 是 home 页面</view>
+
+  <text class="iconfont icon-xuanzhong bColor"></text>
+</view>

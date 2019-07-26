@@ -1,0 +1,12 @@
+
+/* 橘黄 */
+#yellow-skin{
+  background: #f6e1c9;
+}
+#yellow-skin .bColor{
+  background: #f6e1c9;
+  color: #8c6031;
+}
+#yellow-skin .borderColor{
+  border-color:#8c6031;
+}

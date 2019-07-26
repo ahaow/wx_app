@@ -1,0 +1,10 @@
+#dark-skin{
+  background: #000;
+}
+#dark-skin .bColor{
+  background: #000;
+  color: #fff;
+}
+#dark-skin .borderColor{
+  border-color:#fff;
+}

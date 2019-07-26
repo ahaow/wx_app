@@ -1,0 +1,7 @@
+<!--pages/user/user.wxml-->
+<view class="user" id='{{skin}}'>
+  <view class="user bColor">我 是 user 页面</view>
+
+
+  <button bindtap="goThemePage">跳转到设置主题换肤界面</button>
+</view>

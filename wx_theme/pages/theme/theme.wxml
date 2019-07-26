@@ -1,0 +1,8 @@
+<!--pages/theme/theme.wxml-->
+<view class="page" id='{{skin}}'>  
+   <button bindtap="setSkin" data-flag='yellow'>橘黄</button> 
+    <button bindtap="setSkin" data-flag='red'>红色</button> 
+    <button bindtap="setSkin" data-flag='dark'>黑色</button>
+    <button bindtap="setSkin" data-flag='normal'>默认</button>
+    <view class="bColor">啊啊啊啊啊啊啊</view>
+</view>
